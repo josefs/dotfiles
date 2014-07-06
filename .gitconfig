@@ -1,0 +1,11 @@
+[user]
+	email = josef.svenningsson@gmail.com
+	name = Josef Svenningsson
+[push]
+	default = current
+
+[alias]
+    st = status
+    ci = commit
+    co = checkout
+    w = whatchanged
